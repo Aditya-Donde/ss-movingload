@@ -24,6 +24,7 @@ cd ss-movingload
 
 pip install -r requirements.txt
 
+---
 ## ▶️ Usage
 Run the application:
 
@@ -48,6 +49,8 @@ Maximum SF and BM with their locations
 
 The left panel displays animated plots for Shear Force Distribution and Bending Moment Distribution as the load moves across the beam.
 
+---
+
 ## 📁 File Structure
 bash
 Copy
@@ -55,7 +58,9 @@ Edit
 ├── analyze_ss_movingload.py                         
 ├── requirements.txt        
 └── README.md
-            
+
+ ---
+           
 ## 🧠 Concepts Used
 Simply Supported Beam under Moving Loads
 
@@ -67,8 +72,12 @@ GUI development using PyQt5
 
 Animated plotting with Matplotlib
 
+---
+
 ## 📸 Preview
 Coming soon — add screenshots or a short demo video link here!
+
+---
 
 ## 📄 License
 This project is licensed under the MIT License.
