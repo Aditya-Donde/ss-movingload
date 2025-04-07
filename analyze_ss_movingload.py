@@ -10,7 +10,7 @@ from PyQt5.QtWidgets import (
 from PyQt5.QtCore import Qt
 
 ###############################################
-# Analysis Functions (as defined previously)
+# Analysis Functions 
 ###############################################
 
 def analyze_beam(L, W1, W2, x):
