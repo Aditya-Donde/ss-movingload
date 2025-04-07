@@ -19,7 +19,7 @@ This project simulates and analyzes the shear force and bending moment of a simp
 Clone the repository:
 
 ```bash
-git clone https://github.com/Aditya-Donde/analyze_ss_movingload.git
+git clone https://github.com/Aditya-Donde/ss-movingload.git
 cd analyze_ss_movingload
 ```
 
