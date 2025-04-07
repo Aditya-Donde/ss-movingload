@@ -36,7 +36,7 @@ pip install -r requirements.txt
 Run the application:
 
 ```bash
-python main.py
+python analyze_ss_movingload.py
 ```
 
 ### Inputs (entered through the GUI):
