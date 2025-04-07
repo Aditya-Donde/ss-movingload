@@ -81,7 +81,9 @@ as the load moves across the beam.
 
 ## 📸 Preview
 
+![image](https://github.com/user-attachments/assets/055dfa65-6d72-4ba5-92be-b3574aac43bb)
 
+![image](https://github.com/user-attachments/assets/555fa7df-3a0a-4744-bf06-06bd747a5c1c)
 
 ---
 
