@@ -81,7 +81,7 @@ as the load moves across the beam.
 
 ## 📸 Preview
 
-*Coming soon — add screenshots or a short demo video link here!*
+
 
 ---
 
